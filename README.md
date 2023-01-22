@@ -9,6 +9,7 @@
 [![Blog](https://img.shields.io/badge/BOTSZONE.COM.BR-000000?style=for-the-badge&logo=&logoColor=white)](https://www.botszone.com.br/#about)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WAxBZapEVf)
 </div>
+
 ### **Conhecimento nas seguintes tecnologias**
 
 <div style="display: inline_block"><br/>
