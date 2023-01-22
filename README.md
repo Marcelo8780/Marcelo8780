@@ -6,7 +6,7 @@
 #### *A Bot's Zone hoje e o meu principal projeto, uma loja virtual dentro do discord, para sistemas de automação, sistemas de bate-ponto semi-automaticos, registro de membros, ausências e advertências etc.*
 <div style="display: inline_block">
 
-[![Blog](https://img.shields.io/badge/BOTSZONE.COM.BR-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.botszone.com.br/#about)
+[![Blog](https://img.shields.io/badge/BOTSZONE.COM.BR-000000?style=for-the-badge&logo=&logoColor=white)](https://www.botszone.com.br/#about)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WAxBZapEVf)
 </div>
 ### **Conhecimento nas seguintes tecnologias**
